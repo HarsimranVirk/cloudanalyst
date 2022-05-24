@@ -47,5 +47,9 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="commons-math3-3.6.1" level="project" />
+    <orderEntry type="library" name="gridsim" level="project" />
+    <orderEntry type="library" name="iText-2.1.5" level="project" />
+    <orderEntry type="library" name="simjava2" level="project" />
   </component>
 </module>

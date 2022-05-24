@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="cloudanalyst:jar">
-    <output-path>$PROJECT_DIR$/jars/cloudanalyst.jar</output-path>
-    <root id="archive" name="cloudsim.jar">
-      <element id="module-output" name="cloudsim" />
-    </root>
-  </artifact>
-</component>
